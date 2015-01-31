@@ -13,5 +13,8 @@
   "keywords": [
     "css"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "modular-values": "latest"
+  }
 }
