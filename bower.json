@@ -1,0 +1,17 @@
+{
+  "name": "cssberries-widths",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cssberries/trumps.widths",
+  "authors": [
+    "Yevgeniy Belov"
+  ],
+  "description": "Set of modular widths.",
+  "main": "trumps.widths.scss",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "css"
+  ],
+  "license": "MIT"
+}
